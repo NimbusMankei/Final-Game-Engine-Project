@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/nyate/OneDrive/Documents/Unreal Projects/TutorialGame/Final-Game-Engine-Project/Game
+    m_FilePath: C:/Users/nyate/OneDrive/Documents/GitHub/Final-Game-Engine-Project/Game
       Engine Project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
@@ -9,7 +9,7 @@ m_ProjectFiles:
       ticks: 638682009481011722
     m_Hash: 205969706
   m_LockFileStatus:
-    m_FilePath: C:/Users/nyate/OneDrive/Documents/Unreal Projects/TutorialGame/Final-Game-Engine-Project/Game
+    m_FilePath: C:/Users/nyate/OneDrive/Documents/GitHub/Final-Game-Engine-Project/Game
       Engine Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
@@ -21,7 +21,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/nyate/OneDrive/Documents/Unreal Projects/TutorialGame/Final-Game-Engine-Project/Game
+m_ProjectPath: C:/Users/nyate/OneDrive/Documents/GitHub/Final-Game-Engine-Project/Game
   Engine Project/Packages
 m_EditorVersion: 6000.0.28f1 (f336aca0cab5)
 m_ResolvedPackages:
@@ -30,7 +30,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.multiplayer.center
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
@@ -47,6 +47,12 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.2.1
+    - 0.3.0
+    - 0.4.0
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
     - 1.0.0
     compatible:
     - 1.0.0
@@ -115,7 +121,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
@@ -183,7 +189,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
@@ -251,7 +257,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
@@ -318,7 +324,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
@@ -386,7 +392,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
@@ -454,7 +460,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
@@ -522,7 +528,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
@@ -594,7 +600,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
@@ -670,7 +676,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
@@ -738,7 +744,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
@@ -806,7 +812,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
@@ -874,7 +880,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
@@ -942,7 +948,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
@@ -1010,7 +1016,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
@@ -1078,7 +1084,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
@@ -1150,7 +1156,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
@@ -1218,7 +1224,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
@@ -1294,7 +1300,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
@@ -1365,7 +1371,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
@@ -1433,7 +1439,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
@@ -1517,7 +1523,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
@@ -1585,7 +1591,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
@@ -1660,7 +1666,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
@@ -1728,7 +1734,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
@@ -1804,7 +1810,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
@@ -1880,7 +1886,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
@@ -1956,7 +1962,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
@@ -2048,7 +2054,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
@@ -2120,7 +2126,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
@@ -2200,7 +2206,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.vr
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
@@ -2282,7 +2288,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
@@ -2350,7 +2356,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
@@ -2430,7 +2436,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
@@ -2502,7 +2508,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\nyate\OneDrive\Documents\Unreal Projects\TutorialGame\Final-Game-Engine-Project\Game
+  resolvedPath: C:\Users\nyate\OneDrive\Documents\GitHub\Final-Game-Engine-Project\Game
     Engine Project\Library\PackageCache\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
